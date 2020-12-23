@@ -128,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+char_seyar.py
+seyar.yml
